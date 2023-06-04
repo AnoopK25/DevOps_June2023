@@ -1,0 +1,17 @@
+To clone the repo for first time
+	- git clone "repolink"
+
+To Add all the working files from working area to staging area
+	- git add --all
+
+To Add all the working files one by one  from working area to staging area
+	- git add filename, filename
+
+To commit the changes
+	- git commit -m "message"
+
+To push the changes to remote server
+	- git push 
+
+To pull the changes to remote server
+	- git pull
